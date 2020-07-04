@@ -1,4 +1,9 @@
 # FoolKitMap
+
+A map linking an audience to the various sources of legal help in Australia.
+
+By image map, a href and img src.
+
         <div id="map-wrapper" class="middle-map-in">
             <div id="map-statemap">
                 <img id="imap" src="http://cosmic-star.net/juris/map.gif" width="270" height="260" border="0" usemap="#map"/>
@@ -27,4 +32,4 @@
               <li><a href="http://www.foolkit.com.au/wa"><strong>Western Australia</strong></a></li>
             </ul>
         </div>
-</textarea>
+
