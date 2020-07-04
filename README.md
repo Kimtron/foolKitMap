@@ -1,8 +1,7 @@
 # FoolKitMap
-<textarea>
         <div id="map-wrapper" class="middle-map-in">
             <div id="map-statemap">
-                <img id="imap" src="map.gif" width="270" height="260" border="0" usemap="#map"/>
+                <img id="imap" src="http://cosmic-star.net/juris/map.gif" width="270" height="260" border="0" usemap="#map"/>
                 
                 <map name="map" id="map">
                 <area id="tas" class="{strokeColor:'3a3a3a'}" shape="poly" coords="204,232,201,234,201,237,206,243,207,245,208,251,211,255,215,256,218,254,217,250,219,250,221,252,224,252,226,242,229,234,228,233,223,234,220,236,218,236,207,233,204,232" href="http://www.foolkit.com.au/tas" alt="Tasmania" />
@@ -20,8 +19,8 @@
             <ul id="map-statelinks">
               <li><a href="http://www.foolkit.com.au/act">ACT</a></li>
               <li><a href="http://www.foolkit.com.au/nsw"><strong>New South Wales</strong></a></li>
-              <li><a href="nt">Northern Territory</a></li>
-              <li><a href="qld"><strong>Queensland</strong></a></li>
+              <li><a href="http://www.foolkit.com.au/nt">Northern Territory</a></li>
+              <li><a href="http://www.foolkit.com.au/qld"><strong>Queensland</strong></a></li>
               <li><a href="http://www.foolkit.com.au/sa"><strong>South Australia</strong></a></li>
               <li><a href="http://www.foolkit.com.au/tas"><strong>Tasmania</strong></a></li>
               <li><a href="http://www.foolkit.com.au/vic"><strong>Victoria</strong></a></li>
