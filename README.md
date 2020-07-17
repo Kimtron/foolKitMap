@@ -6,7 +6,7 @@ This content is not copyrighted to me.
 Mr. Andrew Rogers LL.B., Lawyer and Founder of Foolkit is fantastic and dedicated 
 to developing an ever dynamic legal resource, and providing outreach to many Australians.
 
-<a class='foolkitMenuClick' onclick='return false;' href='#'><img src="http://www.foolkit.com.au/images/fbutton_big.jpg" alt="Foolkit"></a> <script type='text/javascript' src='http://www.foolkit.com.au/js/widgetvic.js'></script>
+<script type='text/javascript' src='http://www.foolkit.com.au/js/widgetvic.js'><a class='foolkitMenuClick' onclick='return false;' href='#'><img src="http://www.foolkit.com.au/images/fbutton_big.jpg" alt="Foolkit"></a></script>
 
 # Install
 
