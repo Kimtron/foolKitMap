@@ -1,6 +1,7 @@
 # FoolKitMap
 
 A map linking an audience to the various sources of legal help in Australia.
+This content is not copyrighted to me. The owner of Foolkit is fantastic and dedicated to developing an ever dynamic resource.
 
 By image map, a href and img src.
 
