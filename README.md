@@ -1,7 +1,12 @@
 # FoolKitMap
 
 A map linking an audience to the various sources of legal help in Australia.
-This content is not copyrighted to me. The owner of Foolkit is fantastic and dedicated to developing an ever dynamic resource.
+This content is not copyrighted to me. 
+
+Mr. Andrew Rogers LL.B., Lawyer and Founder of Foolkit is fantastic and dedicated 
+to developing an ever dynamic legal resource, and providing outreach to many Australians.
+
+# Install
 
 By image map, a href and img src.
 
