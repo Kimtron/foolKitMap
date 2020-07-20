@@ -8,8 +8,22 @@ to developing an ever dynamic legal resource, and providing outreach to many Aus
 
 # Install
 
-By image map, a href and img src.
+Simply unzip the code into your own directory, such as in your documents
+and open the 'index.html' file to use the map.
 
+# Proposed Use
+
+Singular - As a reference point. 
+
+# Forbidden Use
+
+Integration with another website - as I do not own this content I cannot allow any use of it elsewhere.
+
+# License
+
+None.
+
+# Code
         <div id="map-wrapper" class="middle-map-in">
             <div id="map-statemap">
                 <img id="imap" src="ausMap.png" width="270" height="260" border="0" usemap="#map"/>
