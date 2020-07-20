@@ -1,9 +1,10 @@
 # FoolKitMap
 
 A map linking an audience to the various sources of legal help in Australia.
+
 This content is not copyrighted to me. 
 
-Mr. Andrew Rogers LL.B., Lawyer and Founder of Foolkit is fantastic and dedicated 
+Mr. Andrew Rogers LL.B., Lawyer and Founder of Foolkit is fantastic and dedicated
 to developing an ever dynamic legal resource, and providing outreach to many Australians.
 
 # Install
@@ -17,7 +18,11 @@ Singular - As a reference point.
 
 # Forbidden Use
 
-Integration with another website - as I do not own this content I cannot allow any use of it elsewhere.
+<b>Any non-private use.</b>
+
+This code is designed as a back-up and alternate channel for Foolkit.
+
+If you feel this code violates Foolkit's terms, please report the issue in the 'Issues' section.
 
 # License
 
