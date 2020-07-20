@@ -12,7 +12,7 @@ and open the 'index.html' file to use the map.
 
 # Proposed Use
 
-Singular, as a private reference point. 
+As a private reference point. 
 
 # Forbidden Use
 
