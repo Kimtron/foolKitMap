@@ -12,13 +12,14 @@ and open the 'index.html' file to use the map.
 
 # Proposed Use
 
-As a private reference point. 
+As a private reference point.
 
 # License
 
 None.
 
 # Code
+
 <img id="imap" src="ausMap.png" width="270" height="260" border="0" usemap="#map"/>
 <map name="map" id="map">
                 <area id="tas" class="{strokeColor:'3a3a3a'}" shape="poly" coords="204,232,201,234,201,237,206,243,207,245,208,251,211,255,215,256,218,254,217,250,219,250,221,252,224,252,226,242,229,234,228,233,223,234,220,236,218,236,207,233,204,232" href="http://www.foolkit.com.au/tas" alt="Tasmania" />
