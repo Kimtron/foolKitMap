@@ -14,14 +14,6 @@ and open the 'index.html' file to use the map.
 
 As a private reference point. 
 
-# Forbidden Use
-
-<b>Any non-private use.</b>
-
-This code is designed as a back-up and alternate channel for Foolkit.
-
-If you feel this code violates Foolkit's terms, please report the issue in the 'Issues' section.
-
 # License
 
 None.
